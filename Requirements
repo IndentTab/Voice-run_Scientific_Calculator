@@ -1,0 +1,10 @@
+THESE MODULES ARE TO BE INSTALLED INTO YOUR SYSTEM
+
+speech_recognition
+pyttsx3
+wolframalpha
+
+INSTALLATION IN WINDOWS:
+    pip install SpeechRecognition
+INSTALLATION IN LINUX:
+    sudo pip3 install SpeechRecognition
