@@ -1,5 +1,2 @@
 # Voice-run_Scientific_Calculator
-This is an intermediate level Python project that focuses on voice recognition module, pyttsx3 and Wolfram Alpha integration.
-
-# This is a work in progress
-# The project will be updated as it reaches completion
+The voice-run calculator project leverages pyttsx3, speech recognition, and Wolfram Alpha integration to offer a revolutionary approach. It provides a platform for users to interact with scientific computations using natural language, enhancing accessibility for individuals with disabilities and making complex calculations more approachable for everyone. The project aims to empower students, professionals, and anyone in need of scientific computation tools by offering a seamless, innovative, and user-centric approach to mathematical problem-solving, aligning with the contemporary demand for accessible and intuitive technology.
