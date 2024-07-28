@@ -7,7 +7,7 @@ engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
 
-wolfprimeaplahe_app = 'XR5LAT-KX85YVW73V'
+wolfprimeaplahe_app = <insert your API key>
 
 def audio(audio_text):
     engine.say(audio_text)
